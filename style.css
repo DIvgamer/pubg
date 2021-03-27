@@ -1,0 +1,16 @@
+.head{
+
+    background-color:hsl(0, 0%, 50%);
+    display: flex;
+
+    justify-content:center ;
+    
+
+}
+
+.pos{
+background-color :#ea1912;
+    flex-direction:  column ;
+
+
+}
